@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32309875"
-     inkscape:cx="1271.374"
-     inkscape:cy="2911.5647"
+     inkscape:zoom="0.88454905"
+     inkscape:cx="620.58381"
+     inkscape:cy="2040.4488"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer13"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -2368,8 +2368,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="conclusion_text"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
-     sodipodi:insensitive="true">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
     <flowRoot
        transform="translate(-2492.2995,-52.120709)"
        xml:space="preserve"
@@ -2459,7 +2458,7 @@
          id="flowPara8035"
          style="font-size:28px" /><flowPara
          id="flowPara8037"
-         style="font-size:28px">• We will enhance tools to export to an annotation database browser modelled on the Bass Explorer</flowPara><flowPara
+         style="font-size:28px">• We will enhance tools that export to an annotation database browser modelled on the Bass Explorer</flowPara><flowPara
          style="font-size:28px"
          id="flowPara8039" /><flowPara
          style="font-size:28px"
@@ -2492,14 +2491,16 @@
            y="4015.0068" /></flowRegion><flowPara
          id="flowPara8832"><flowSpan
    style="font-weight:bold"
-   id="flowSpan8890">Thevasagayam NM</flowSpan>, et al. Transcriptome Survey of a Marine Food Fish: Asian Seabass (Lates calcarifer). J Mar Sci Eng. 2015 Jun 2;3(2):382–400. </flowPara><flowPara
+   id="flowSpan8890">Thevasagayam NM</flowSpan>, et al. <flowSpan
+   style="font-style:italic"
+   id="flowSpan9413">Transcriptome Survey of a Marine Food Fish: Asian Seabass (Lates calcarifer).</flowSpan> J Mar Sci Eng. 2015 Jun 2;3(2):382–400. </flowPara><flowPara
          id="flowPara8852"><flowSpan
    style="font-weight:bold"
    id="flowSpan8908">The Galaxy Team.</flowSpan><flowSpan
    style="font-style:italic"
    id="flowSpan8906"> The Galaxy Project: Online bioinformatics analysis for everyone</flowSpan>. [cited 2016 Mar 29]. Available from: https://www.galaxyproject.org/ </flowPara><flowPara
          id="flowPara8912" /><flowPara
-         id="flowPara8910">Special thanks to the Galaxy Intergalactic Utilities Commission (IUC) members, especially Eric Rasche (for JBrowse wrapper) and Björn Grüning (for Interactive Environments) and the SANBI software developers Thoba Lose (for Bass Explorer) and Ziphozakhe Mashologu (for RNA STAR index builder).</flowPara></flowRoot>  </g>
+         id="flowPara8910">Special thanks to the Galaxy Intergalactic Utilities Commission (IUC) members, especially Eric Rasche (for JBrowse wrapper) and Björn Grüning (for Interactive Environments) and SANBI software developers Thoba Lose (for Bass Explorer) and Ziphozakhe Mashologu (for RNA STAR index builder).</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
@@ -2513,7 +2514,7 @@
        style="color:#000000;fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path27197"
        inkscape:href="#path27125"
-       d="m 2207.6875,842.8125 c 1.9756,1.15421 1.9732,1.09896 3.3125,2.1875 l 0.1875,-0.34375 c 59.2594,35.62421 115.1203,75.04695 167.4375,117.71875 0.01,0.005 0.084,0.0553 0.094,0.0625 0.2464,0.20106 0.5036,0.39255 0.75,0.59375 a 17.618156,17.618156 0 0 1 0.062,0.0625 c 0.033,0.0286 0.1465,0.0972 0.2188,0.15625 0.01,0.0114 0.1574,0.13754 0.2188,0.1875 a 17.618156,17.618156 0 0 1 0.062,0.0625 c 3.0704,2.51111 5.9029,4.91915 8.625,7.1875 a 17.618156,17.618156 0 0 1 0.5938,0.4375 c 0.3488,0.28943 1.1115,0.93443 1.875,1.5625 0.2366,0.19463 0.3291,0.24808 0.5938,0.46875 a 17.618156,17.618156 0 0 1 0.062,0.0625 c 1.4222,1.189 2.8981,2.43133 4.5,3.78125 a 17.618156,17.618156 0 0 1 0.031,0 c 0.822,0.69154 1.5029,1.25324 1.9063,1.59375 3.4647,2.92351 6.8974,5.87615 10.3124,8.8125 99.6309,85.67205 187.1369,184.92275 260.1563,294.65625 l 246.5,0 0,-439.25 -707.5,0 z m -18.4687,30.09375 c 0.1764,0.12178 1.1134,0.66225 1.6874,1 -0.7434,-0.32229 -0.9549,-0.42015 0.25,0.21875 -0.8528,-0.33472 -1.266,-0.47042 -0.1562,0.0625 -0.9739,-0.31847 -0.2063,0.0357 2.0625,0.96875 0.056,0.0259 0.069,0.0366 0.125,0.0625 0.017,0.007 0.014,0.0244 0.031,0.0312 0.028,0.0117 0.034,0.0195 0.062,0.0312 0.04,0.0182 0.054,0.0131 0.094,0.0312 2.3351,1.31935 3.1585,1.73081 1.875,0.90625 1.2835,0.63501 1.0892,0.52132 0.3125,0.0625 1.1882,0.52419 0.9844,0.37999 0.3437,0.0312 1.9192,0.74659 2.5943,0.93472 -2.2187,-1.15625 -0.106,-0.0407 -0.023,0.008 -0.125,-0.0312 -0.032,-0.0121 0,-0.0193 -0.031,-0.0312 -0.1038,-0.045 -0.025,0.0118 -0.125,-0.0312 -0.01,-0.004 0.01,-0.0273 0,-0.0312 -0.045,-0.0195 -0.018,0.0191 -0.062,0 -0.031,-0.0134 -8e-4,-0.0181 -0.031,-0.0312 -0.022,-0.009 -0.01,0.009 -0.031,0 -0.03,-0.0131 -0,-0.0184 -0.031,-0.0312 -0.033,-0.0176 0,-0.0139 -0.031,-0.0312 -0.021,-0.0102 -0.01,0.0101 -0.031,0 -0.072,-0.0349 -0.024,0.002 -0.094,-0.0312 -0.01,-0.004 0.01,-0.0268 0,-0.0312 -3.182,-1.7124 -4.2596,-2.23416 -3.875,-1.96875 z m 203.375,102.0625 c 0.7877,0.6231 1.6397,1.31987 3.25,2.59375 l 0.375,-0.4375 c -1.0772,-0.84285 -2.28,-1.55621 -3.625,-2.15625 z" />
+       d="m 2207.6875,844.8125 c 1.9756,1.15421 1.9732,1.09896 3.3125,2.1875 l 0.1875,-0.34375 c 59.2594,35.62421 115.1203,75.04695 167.4375,117.71875 0.01,0.005 0.084,0.0553 0.094,0.0625 0.2464,0.20106 0.5036,0.39255 0.75,0.59375 a 17.618156,17.618156 0 0 1 0.062,0.0625 c 0.033,0.0286 0.1465,0.0972 0.2188,0.15625 0.01,0.0114 0.1574,0.13754 0.2188,0.1875 a 17.618156,17.618156 0 0 1 0.062,0.0625 c 3.0704,2.51111 5.9029,4.91915 8.625,7.1875 a 17.618156,17.618156 0 0 1 0.5938,0.4375 c 0.3488,0.28943 1.1115,0.93443 1.875,1.5625 0.2366,0.19463 0.3291,0.24808 0.5938,0.46875 a 17.618156,17.618156 0 0 1 0.062,0.0625 c 1.4222,1.189 2.8981,2.43133 4.5,3.78125 a 17.618156,17.618156 0 0 1 0.031,0 c 0.822,0.69154 1.5029,1.25324 1.9063,1.59375 3.4647,2.92351 6.8974,5.87615 10.3124,8.8125 99.6309,85.67205 187.1369,184.92275 260.1563,294.65625 l 246.5,0 0,-439.25 -707.5,0 z m -18.4687,30.09375 c 0.1764,0.12178 1.1134,0.66225 1.6874,1 -0.7434,-0.32229 -0.9549,-0.42015 0.25,0.21875 -0.8528,-0.33472 -1.266,-0.47042 -0.1562,0.0625 -0.9739,-0.31847 -0.2063,0.0357 2.0625,0.96875 0.056,0.0259 0.069,0.0366 0.125,0.0625 0.017,0.007 0.014,0.0244 0.031,0.0312 0.028,0.0117 0.034,0.0195 0.062,0.0312 0.04,0.0182 0.054,0.0131 0.094,0.0312 2.3351,1.31935 3.1585,1.73081 1.875,0.90625 1.2835,0.63501 1.0892,0.52132 0.3125,0.0625 1.1882,0.52419 0.9844,0.37999 0.3437,0.0312 1.9192,0.74659 2.5943,0.93472 -2.2187,-1.15625 -0.106,-0.0407 -0.023,0.008 -0.125,-0.0312 -0.032,-0.0121 0,-0.0193 -0.031,-0.0312 -0.1038,-0.045 -0.025,0.0118 -0.125,-0.0312 -0.01,-0.004 0.01,-0.0273 0,-0.0312 -0.045,-0.0195 -0.018,0.0191 -0.062,0 -0.031,-0.0134 -8e-4,-0.0181 -0.031,-0.0312 -0.022,-0.009 -0.01,0.009 -0.031,0 -0.03,-0.0131 -0,-0.0184 -0.031,-0.0312 -0.033,-0.0176 0,-0.0139 -0.031,-0.0312 -0.021,-0.0102 -0.01,0.0101 -0.031,0 -0.072,-0.0349 -0.024,0.002 -0.094,-0.0312 -0.01,-0.004 0.01,-0.0268 0,-0.0312 -3.182,-1.7124 -4.2596,-2.23416 -3.875,-1.96875 z m 203.375,102.0625 c 0.7877,0.6231 1.6397,1.31987 3.25,2.59375 l 0.375,-0.4375 c -1.0772,-0.84285 -2.28,-1.55621 -3.625,-2.15625 z" />
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 2140.625,827.17963 c 20.0897,10.70177 39.8942,21.87536 59.375,33.53125 a 13.815199,13.815199 0 0 1 2.125,1.03125 c 58.8382,35.371 114.2759,74.53233 166.1875,116.93745 -0.421,-0.344 -0.3257,-0.2772 0.2813,0.2188 -0.4158,-0.34 -0.3401,-0.2933 0.25,0.1875 a 13.815199,13.815199 0 0 1 0.031,0.031 c 3.1232,2.5543 6.1385,5.1047 9.0938,7.5624 0.01,0 0.026,0 0.031,0 0.6681,0.5544 1.4833,1.2045 2.4375,2 a 13.815199,13.815199 0 0 1 0.031,0.031 c 1.409,1.178 2.8875,2.4176 4.4687,3.75 0.01,0.01 0.024,-0.01 0.031,0 0.7125,0.5994 1.3436,1.1451 1.875,1.5937 3.4078,2.8754 6.7986,5.7738 10.1874,8.68762 100.8034,86.6803 189.1776,187.3803 262.3438,298.9374 l 273.4375,0 0,-474.49997 -792.1875,0 z"
@@ -2585,8 +2586,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="introduction_text"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
-     sodipodi:insensitive="true">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot27912"
@@ -2617,7 +2617,7 @@
          style="font-size:36px;text-align:justify;text-anchor:start"
          id="flowPara28077" /><flowPara
          id="flowPara28075"
-         style="font-size:36px;text-align:justify;text-anchor:start">The Galaxy framework allows workflows to be constructed in a high level workflow language that hides the system-specific details of their implementation. We implemented genome annotation workflows in Galaxy, demonstrating its suitability for the construction of an annotation workbench incorporating re-usable and replaceable modules.</flowPara></flowRoot>    <path
+         style="font-size:36px;text-align:justify;text-anchor:start">The Galaxy framework allows workflows to be constructed in a high level workflow language that hides the system-specific details of their implementation. We implemented genome annotation workflows in Galaxy, demonstrating its suitability for constructing an annotation workbench  that incorporates re-usable and replaceable modules.</flowPara></flowRoot>    <path
        style="color:#000000;fill:none;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 95.65625,172.96088 0,1140.06252 204.4375,0 c 28.87731,-44.8627 60.21845,-87.9592 93.84375,-129.0938 l -3.5,-1.7187 C 613.03488,908.84568 927.0725,735.24948 1263.6562,685.08588 l 0,-512.125 -1167.99995,0 z"
        id="rect24108-5"
@@ -3024,16 +3024,21 @@
        xml:space="preserve"
        id="flowRoot24808"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garuda;-inkscape-font-specification:Garuda"
-       transform="translate(-1.5011,-41.105118)"><flowRegion
+       transform="translate(-137.68237,-41.105118)"><flowRegion
          id="flowRegion24810"><rect
            id="rect24812"
-           width="1025.1166"
-           height="473.36612"
+           width="1247.9586"
+           height="402.1806"
            x="1806.3204"
            y="3513.9114" /></flowRegion><flowPara
-         id="flowPara24822">The tools in the two transcript-alignment and reconstruction workflows differ in the degree to which they make use of multithreading, but in both workflows extra parallelism was achieved by using Galaxy dataset collections in the workflows. Even with parallelisation the BLAST, GenBlastA and Exonerate steps of the workflow, the RNA STAR and Cufflinks based Method 2 was more than twice as fast as Method 1.</flowPara><flowPara
-         id="flowPara24828" /><flowPara
-         id="flowPara24830">The assembled transcripts used in Method 1 were assembled independently in different libraries, resulting in overlapping transcript alignments and a substantially higher number of aligned transcripts when compared with Method 2, which merged transcript alignments from multiple libraries into final transcripts. Method2 predicted significantly (according to Mann-Whitney test) larger exons and on-genome isoforms, with a 460 spanning more than 200Kb. We suspect that these suspiciously large isoforms are artifacts possibly caused by matches to unmasked repeats. Despite these suspicious artifacts, 2,040,178 out of 2,120,605 (96%) exons predicted by Method 2 overlapped with exons predicted by Method 1, suggesting that Method 2 is worth further investigation.</flowPara></flowRoot>    <g
+         id="flowPara24822"
+         style="font-size:28px;text-align:justify;line-height:100%;text-anchor:start">The tools in the two transcript-alignment and reconstruction workflows make use of different degrees of multithreading, but in both workflows extra parallelism was achieved by using Galaxy dataset collections. Even with parallelisation the BLAST, GenBlastA and Exonerate steps of the workflow, the RNA STAR and Cufflinks based Method 2 was more than twice as fast as Method 1.</flowPara><flowPara
+         id="flowPara24828"
+         style="font-size:28px;text-align:justify;line-height:100%;text-anchor:start" /><flowPara
+         id="flowPara24830"
+         style="font-size:28px;line-height:100%"><flowSpan
+   style="font-size:28px;text-align:justify;text-anchor:start"
+   id="flowSpan9410">The assembled transcripts used in Method 1 were assembled independently in different libraries, resulting in overlapping transcript alignments and a substantially higher number of aligned transcripts compared to Method 2, which merged transcript alignments from multiple libraries into final transcripts. Method2 predicted significantly (according to Mann-Whitney test) larger exons and on-genome isoforms, with 460 spanning more than 200Kb. We suspect that these suspiciously large isoforms are artifacts possibly caused by matches to unmasked repeats. Despite these suspicious </flowSpan>artifacts, 2,040,178 out of 2,120,605 (96%) exons predicted by Method 2 overlapped with exons predicted by Method 1, suggesting that Method 2 is worth further investigation.</flowPara></flowRoot>    <g
        id="g9178"
        transform="translate(6.6336273,-8.3802553)"
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
