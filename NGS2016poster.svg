@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.88454905"
      inkscape:cx="620.58381"
-     inkscape:cy="2040.4488"
+     inkscape:cy="457.72142"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -2420,7 +2420,7 @@
          style="font-size:28px">• Exposing results through Jupyter notebooks and export to browsers such as JBrowse and the (SANBI-authored) Bass Explorer allows results to be examined seamlessly within Galaxy</flowPara><flowPara
          id="flowPara7899"
          style="font-size:28px" /></flowRoot>    <flowRoot
-       transform="translate(-2492.2995,559.85392)"
+       transform="translate(-2492.2995,553.07081)"
        xml:space="preserve"
        id="flowRoot28858-4-9"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"><flowRegion
@@ -2444,7 +2444,7 @@
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowRoot8027"
-       transform="translate(1.5605555,-123.09329)"><flowRegion
+       transform="translate(-0.70048361,-138.92056)"><flowRegion
          id="flowRegion8029"><use
            x="0"
            y="0"
@@ -2465,7 +2465,7 @@
          id="flowPara8041" /><flowPara
          style="font-size:28px"
          id="flowPara8043" /></flowRoot>    <flowRoot
-       transform="translate(-2492.2995,832.99932)"
+       transform="translate(-2496.8216,808.12789)"
        xml:space="preserve"
        id="flowRoot28858-4-9-1"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"><flowRegion
@@ -2479,14 +2479,14 @@
            style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1" /></flowRegion><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1;font-family:Cabin;-inkscape-font-specification:Cabin"
          id="flowPara22502-1-6-2">Bibliography and Acknowledgements</flowPara></flowRoot>    <flowRoot
-       transform="translate(2.044291,-97.747977)"
+       transform="translate(-1.3472677,-127.14148)"
        xml:space="preserve"
        id="flowRoot8742"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garuda;-inkscape-font-specification:Garuda"><flowRegion
          id="flowRegion8744"><rect
            id="rect8746"
-           width="1223.1848"
-           height="224.10985"
+           width="1220.9237"
+           height="288.54944"
            x="93.620972"
            y="4015.0068" /></flowRegion><flowPara
          id="flowPara8832"><flowSpan
@@ -2500,7 +2500,7 @@
    style="font-style:italic"
    id="flowSpan8906"> The Galaxy Project: Online bioinformatics analysis for everyone</flowSpan>. [cited 2016 Mar 29]. Available from: https://www.galaxyproject.org/ </flowPara><flowPara
          id="flowPara8912" /><flowPara
-         id="flowPara8910">Special thanks to the Galaxy Intergalactic Utilities Commission (IUC) members, especially Eric Rasche (for JBrowse wrapper) and Björn Grüning (for Interactive Environments) and SANBI software developers Thoba Lose (for Bass Explorer) and Ziphozakhe Mashologu (for RNA STAR index builder).</flowPara></flowRoot>  </g>
+         id="flowPara9417">Special thanks to the Galaxy Intergalactic Utilities Commission (IUC) members, especially Eric Rasche (for JBrowse wrapper) and Björn Grüning (for Interactive Environments) and SANBI software developers Thoba Lose (for Bass Explorer) and Ziphozakhe Mashologu (for RNA STAR index builder). This work was supported by the South African Research Chairs Initiative of the Department of Science and Technology and National Research Foundation of SA.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
