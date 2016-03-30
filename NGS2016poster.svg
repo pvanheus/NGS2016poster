@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88454905"
-     inkscape:cx="620.58381"
-     inkscape:cy="457.72142"
+     inkscape:cx="2454.7854"
+     inkscape:cy="3397.0723"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer13"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1346,7 +1346,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2489,16 +2489,19 @@
            height="288.54944"
            x="93.620972"
            y="4015.0068" /></flowRegion><flowPara
-         id="flowPara8832"><flowSpan
-   style="font-weight:bold"
-   id="flowSpan8890">Thevasagayam NM</flowSpan>, et al. <flowSpan
-   style="font-style:italic"
-   id="flowSpan9413">Transcriptome Survey of a Marine Food Fish: Asian Seabass (Lates calcarifer).</flowSpan> J Mar Sci Eng. 2015 Jun 2;3(2):382–400. </flowPara><flowPara
          id="flowPara8852"><flowSpan
    style="font-weight:bold"
-   id="flowSpan8908">The Galaxy Team.</flowSpan><flowSpan
+   id="flowSpan8908"><flowSpan
+   style="font-weight:normal"
+   id="flowSpan6877">1.</flowSpan> The Galaxy Team.</flowSpan><flowSpan
    style="font-style:italic"
-   id="flowSpan8906"> The Galaxy Project: Online bioinformatics analysis for everyone</flowSpan>. [cited 2016 Mar 29]. Available from: https://www.galaxyproject.org/ </flowPara><flowPara
+   id="flowSpan8906"> The Galaxy Project: Online bioinformatics analysis for everyone</flowSpan>. [cited 2016 Mar 29]. Available from: https://www.galaxyproject.org/</flowPara><flowPara
+         id="flowPara6869">2. <flowSpan
+   style="font-weight:bold"
+   id="flowSpan6873">Thevasagayam NM, et al</flowSpan>. <flowSpan
+   style="font-style:italic"
+   id="flowSpan6875">Transcriptome Survey of a Marine Food Fish: Asian Seabass (Lates calcarifer).</flowSpan> J Mar Sci Eng. 2015 Jun 2;3(2):382–400. </flowPara><flowPara
+         id="flowPara6871" /><flowPara
          id="flowPara8912" /><flowPara
          id="flowPara9417">Special thanks to the Galaxy Intergalactic Utilities Commission (IUC) members, especially Eric Rasche (for JBrowse wrapper) and Björn Grüning (for Interactive Environments) and SANBI software developers Thoba Lose (for Bass Explorer) and Ziphozakhe Mashologu (for RNA STAR index builder). This work was supported by the South African Research Chairs Initiative of the Department of Science and Technology and National Research Foundation of SA.</flowPara></flowRoot>  </g>
   <g
@@ -2539,7 +2542,7 @@
            height="4212.9922"
            transform="translate(0,39.726615)" /></flowRegion><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
-         id="flowPara27209">Three datasets were obtained from Temasek Life Sciences Laboratory: assembled (Thevasagayam 2015) transcript data, comprising 1,184,879 contigs totalling 890 Mb, the assembled L. calcarifer genome (668 Mb, N50 1,191,366, in press) and two sets of Illumina HiSeq RNAseq reads (486 million reads after filtering for quality and length). Analysis was conducted using Galaxy workflows, an IPython notebook and custom scripts.</flowPara><flowPara
+         id="flowPara27209">Three datasets were obtained from Temasek Life Sciences Laboratory: assembled² transcript data, comprising 1,184,879 contigs totalling 890 Mb, the assembled L. calcarifer genome (668 Mb, N50 1,191,366, in press) and two sets of Illumina HiSeq RNAseq reads (486 million reads after filtering for quality and length). Analysis was conducted using Galaxy workflows, an IPython notebook and custom scripts.</flowPara><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
          id="flowPara27213" /><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
@@ -2617,7 +2620,7 @@
          style="font-size:36px;text-align:justify;text-anchor:start"
          id="flowPara28077" /><flowPara
          id="flowPara28075"
-         style="font-size:36px;text-align:justify;text-anchor:start">The Galaxy framework allows workflows to be constructed in a high level workflow language that hides the system-specific details of their implementation. We implemented genome annotation workflows in Galaxy, demonstrating its suitability for constructing an annotation workbench  that incorporates re-usable and replaceable modules.</flowPara></flowRoot>    <path
+         style="font-size:36px;text-align:justify;text-anchor:start">The Galaxy¹ framework allows workflows to be constructed in a high level workflow language that hides the system-specific details of their implementation. We implemented genome annotation workflows in Galaxy, demonstrating its suitability for constructing an annotation workbench  that incorporates re-usable and replaceable modules.</flowPara></flowRoot>    <path
        style="color:#000000;fill:none;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 95.65625,172.96088 0,1140.06252 204.4375,0 c 28.87731,-44.8627 60.21845,-87.9592 93.84375,-129.0938 l -3.5,-1.7187 C 613.03488,908.84568 927.0725,735.24948 1263.6562,685.08588 l 0,-512.125 -1167.99995,0 z"
        id="rect24108-5"
