@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88454905"
-     inkscape:cx="2454.7854"
-     inkscape:cy="3397.0723"
+     inkscape:zoom="0.44227453"
+     inkscape:cx="2324.207"
+     inkscape:cy="3515.3794"
      inkscape:document-units="mm"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -1580,7 +1580,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="circle"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;fill:url(#linearGradient22308);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter22275);enable-background:accumulate"
@@ -1591,7 +1592,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="boxes"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="-54.889481"
@@ -1600,7 +1602,7 @@
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.9009285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path24412"
        inkscape:href="#rect24108"
-       d="m 90.25,161.125 0,1137.5938 174.15625,0 c 21.47189,-31.6397 44.17465,-62.36 68,-92.1563 a 54.89497,54.89497 0 0 1 9.96875,-18.625 C 584.1706,893.43733 928.80392,710.56331 1296,666.28125 l 0,-505.15625 -1205.75,0 z" />
+       d="m 90.25,121.40625 0,1137.59375 174.15625,0 c 21.47189,-31.6397 44.17465,-62.36 68,-92.1562 a 54.89497,54.89497 0 0 1 9.96875,-18.625 C 584.1706,853.71851 928.80392,670.84456 1296,626.5625 l 0,-505.15625 -1205.75,0 z" />
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="0"
@@ -1609,7 +1611,7 @@
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.9009285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path24446"
        inkscape:href="#rect24108"
-       d="m 35.375,106.25 0,1247.3438 258.34375,0 c 29.11653,-44.8625 60.72115,-87.9598 94.625,-129.0938 l -3.53125,-1.7188 C 628.02591,926.55418 979.52806,747.49475 1350.875,715.6875 l 0,-609.4375 -1315.5,0 z" />
+       d="m 35.375,66.53125 0,1247.34375 258.34375,0 c 29.11653,-44.8625 60.72115,-87.9598 94.625,-129.0938 l -3.53125,-1.7187 C 628.02591,886.83541 979.52806,707.776 1350.875,675.96875 l 0,-609.4375 -1315.5,0 z" />
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="0"
@@ -1618,7 +1620,7 @@
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.9009285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path24448"
        inkscape:href="#rect24108"
-       d="m 35.375,106.25 0,1247.3438 258.34375,0 c 29.11653,-44.8625 60.72115,-87.9598 94.625,-129.0938 l -3.53125,-1.7188 C 628.02591,926.55418 979.52806,747.49475 1350.875,715.6875 l 0,-609.4375 -1315.5,0 z" />
+       d="m 35.375,66.53125 0,1247.34375 258.34375,0 c 29.11653,-44.8625 60.72115,-87.9598 94.625,-129.0938 l -3.53125,-1.7187 C 628.02591,886.83541 979.52806,707.776 1350.875,675.96875 l 0,-609.4375 -1315.5,0 z" />
     <path
        style="color:#000000;fill:#d8f3ca;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.9009285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 35.375,66.523385 0,1247.343815 258.34375,0 c 29.11653,-44.8625 60.72115,-87.9598 94.625,-129.0938 l -3.53125,-1.7188 C 628.02591,886.82751 979.52806,707.76813 1350.875,675.96088 l 0,-609.437495 -1315.5,0 z"
@@ -1632,7 +1634,7 @@
        style="color:#000000;fill:#d8f3ca;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.9009285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path26286"
        inkscape:href="#rect24108-0"
-       d="m 1679.0625,113.875 0,521.46875 c 112.876,16.48011 225.2992,46.47735 334.9375,90.9375 a 48.735998,48.735998 0 0 1 6.1562,3.09375 c 67.9906,27.70797 133.3662,60.43084 195.7188,97.65625 a 48.735998,48.735998 0 0 1 3.4062,1.8125 c 60.288,36.24263 117.1228,76.33209 170.3126,119.78125 a 48.735998,48.735998 0 0 1 0,0.0312 c -1.7121,-1.39908 -1.6299,-1.34472 0.2812,0.21875 -1.712,-1.39908 -1.6168,-1.33233 0.2812,0.21875 3.3762,2.76112 6.4696,5.35421 9.3126,7.71875 0.01,0.009 0.021,0.0226 0.031,0.0312 0.3262,0.27014 1.1647,0.91755 2.5,2.03125 a 48.735998,48.735998 0 0 1 0.031,0.0312 c 1.2097,1.01101 2.7494,2.28546 4.5626,3.8125 0.027,0.0226 0.035,0.0398 0.062,0.0625 0.9251,0.77869 1.601,1.336 1.9063,1.59375 3.4808,2.93668 6.9559,5.9127 10.4375,8.90625 98.492,84.69315 185.288,182.49365 258.1562,290.49995 l 219.9376,0 0,-1149.9062 -1218.0313,0 z" />
+       d="m 1679.0625,115.875 0,521.46875 c 112.876,16.48011 225.2992,46.47735 334.9375,90.9375 a 48.735998,48.735998 0 0 1 6.1562,3.09375 c 67.9906,27.70797 133.3662,60.43084 195.7188,97.65625 a 48.735998,48.735998 0 0 1 3.4062,1.8125 c 60.288,36.24263 117.1228,76.33209 170.3126,119.78125 a 48.735998,48.735998 0 0 1 0,0.0312 c -1.7121,-1.39908 -1.6299,-1.34472 0.2812,0.21875 -1.712,-1.39908 -1.6168,-1.33233 0.2812,0.21875 3.3762,2.76112 6.4696,5.35421 9.3126,7.71875 0.01,0.009 0.021,0.0226 0.031,0.0312 0.3262,0.27014 1.1647,0.91755 2.5,2.03125 a 48.735998,48.735998 0 0 1 0.031,0.0312 c 1.2092,1.0106 2.7485,2.28462 4.5626,3.8125 0.027,0.0226 0.035,0.0398 0.062,0.0625 0.9251,0.77869 1.601,1.336 1.9063,1.59375 3.4808,2.93668 6.9559,5.9127 10.4375,8.90625 98.492,84.69315 185.288,182.49365 258.1562,290.49995 l 219.9376,0 0,-1149.9062 -1218.0313,0 z" />
     <path
        style="color:#000000;fill:#d8f3ca;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.9009285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1630.3438,67.148385 0,612.874995 c 123.0466,14.19231 245.8624,44.95459 365.3437,93.40625 l -0.062,0.53125 c 69.0703,27.76244 135.4044,60.89594 198.5312,98.8125 l 0.031,-0.1875 c 58.2646,35.02627 113.1566,73.78931 164.5625,115.7813 0.093,0.076 0.1883,0.1427 0.2812,0.2187 0.093,0.076 0.1883,0.1427 0.2813,0.2187 3.0279,2.4763 6.0275,5.0019 9.0313,7.5 0.8098,0.6724 1.6293,1.3261 2.4374,2 1.4909,1.2461 2.9842,2.46752 4.4688,3.71882 0.6207,0.5218 1.2552,1.0705 1.875,1.5938 3.3792,2.851 6.7416,5.7114 10.0938,8.5937 101.7234,87.4717 190.755,189.2893 264,302.2813 l 294.5937,0 0,-1247.343815 -1315.4687,0 z"
@@ -1660,7 +1662,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="method_flowchart"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g24886"
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
@@ -2243,7 +2246,8 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="conclusion_figures"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:0.86000001;color:#000000;fill:#32bdd0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.78662968;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect28729-3-6-1-6"
@@ -2368,7 +2372,8 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="conclusion_text"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        transform="translate(-2492.2995,-52.120709)"
        xml:space="preserve"
@@ -2542,7 +2547,7 @@
            height="4212.9922"
            transform="translate(0,39.726615)" /></flowRegion><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
-         id="flowPara27209">Three datasets were obtained from Temasek Life Sciences Laboratory: assembled² transcript data, comprising 1,184,879 contigs totalling 890 Mb, the assembled L. calcarifer genome (668 Mb, N50 1,191,366, in press) and two sets of Illumina HiSeq RNAseq reads (486 million reads after filtering for quality and length). Analysis was conducted using Galaxy workflows, an IPython notebook and custom scripts.</flowPara><flowPara
+         id="flowPara27209">Four datasets were obtained from Temasek Life Sciences Laboratory: assembled² transcript data, comprising 1,184,879 contigs totalling 890 Mb, the assembled L. calcarifer genome (668 Mb, N50 1,191,366, in press) and two sets of Illumina HiSeq RNAseq reads (486 million reads after filtering for quality and length). Analysis was conducted using Galaxy workflows, an IPython notebook and custom scripts.</flowPara><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
          id="flowPara27213" /><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
@@ -2589,7 +2594,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="introduction_text"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot27912"
@@ -2616,7 +2622,9 @@
            height="4212.9922"
            transform="translate(-0.013041,48.140231)" /></flowRegion><flowPara
          id="flowPara28073"
-         style="font-size:36px;text-align:justify;text-anchor:start">Falling costs of genetic sequencing allows non-model organism sequencing, then annotation. In annotating non-model genomes, mRNA-seq data has great potential to improve annotation quality. For example the Asian sea bass (L. calcarifer) genome annotation effort drew on previously assembled mRNA-seq data provided by the Temasek Life Sciences Laboratory (TLL). At the South African National Bioinformatics Institute (SANBI) we undertook gene annotation on the Asian seabass genome using a pipeline built out of custom scripts. Simultaneously, a team at Saint Petersburg State University undertook the same task using MAKER2. Comparing the results of this annotation highlighted the impact of tool and parameter choice in gene prediction.</flowPara><flowPara
+         style="font-size:36px;text-align:justify;text-anchor:start">Falling costs of genetic sequencing have allowed sequencing and annotation of the genomes of non-model organism. In annotating non-model genomes, mRNA-seq data has great potential to improve annotation quality. For example the Asian sea bass (<flowSpan
+   style="font-style:italic"
+   id="flowSpan6869">L. calcarifer</flowSpan>) genome annotation effort drew on previously assembled mRNA-seq data provided by the Temasek Life Sciences Laboratory (TLL). At the South African National Bioinformatics Institute (SANBI) we undertook gene annotation on the Asian seabass genome using a pipeline built out of custom scripts. Simultaneously, a team at Saint Petersburg State University undertook the same task using MAKER2. Comparing the results of this annotation highlighted the impact of tool and parameter choice in gene prediction.</flowPara><flowPara
          style="font-size:36px;text-align:justify;text-anchor:start"
          id="flowPara28077" /><flowPara
          id="flowPara28075"
@@ -2643,7 +2651,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="introduction_figures"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g28838"
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
@@ -2733,7 +2742,8 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="results_text"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:0.85;color:#000000;fill:#b3e896;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.89903742;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect40553"
@@ -10019,7 +10029,8 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="methods_figures"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot28625"
