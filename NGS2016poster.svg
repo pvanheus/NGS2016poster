@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.44227453"
-     inkscape:cx="2324.207"
-     inkscape:cy="3515.3794"
+     inkscape:cx="877.14193"
+     inkscape:cy="621.24933"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer13"
      showgrid="false"
      inkscape:window-width="1301"
      inkscape:window-height="744"
@@ -2372,8 +2372,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="conclusion_text"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
-     sodipodi:insensitive="true">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
     <flowRoot
        transform="translate(-2492.2995,-52.120709)"
        xml:space="preserve"
@@ -2410,7 +2409,7 @@
            height="4212.9922"
            transform="translate(-0.013041,70.529413)" /></flowRegion><flowPara
          id="flowPara7885"
-         style="font-size:28px">• Repeatable genome analysis workflows allow reuse of methods and reproducibility of results</flowPara><flowPara
+         style="font-size:28px">• Repeatable genome analysis workflows allows for reuse of methods and reproducibility of results</flowPara><flowPara
          id="flowPara7887"
          style="font-size:28px" /><flowPara
          id="flowPara7889"
@@ -2425,7 +2424,7 @@
          style="font-size:28px">• Exposing results through Jupyter notebooks and export to browsers such as JBrowse and the (SANBI-authored) Bass Explorer allows results to be examined seamlessly within Galaxy</flowPara><flowPara
          id="flowPara7899"
          style="font-size:28px" /></flowRoot>    <flowRoot
-       transform="translate(-2492.2995,553.07081)"
+       transform="translate(-2494.5605,544.02665)"
        xml:space="preserve"
        id="flowRoot28858-4-9"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"><flowRegion
@@ -2449,7 +2448,7 @@
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowRoot8027"
-       transform="translate(-0.70048361,-138.92056)"><flowRegion
+       transform="translate(-0.70048361,-161.53095)"><flowRegion
          id="flowRegion8029"><use
            x="0"
            y="0"
@@ -2470,7 +2469,7 @@
          id="flowPara8041" /><flowPara
          style="font-size:28px"
          id="flowPara8043" /></flowRoot>    <flowRoot
-       transform="translate(-2496.8216,808.12789)"
+       transform="translate(-2496.8216,774.2123)"
        xml:space="preserve"
        id="flowRoot28858-4-9-1"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"><flowRegion
@@ -2484,21 +2483,19 @@
            style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1" /></flowRegion><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1;font-family:Cabin;-inkscape-font-specification:Cabin"
          id="flowPara22502-1-6-2">Bibliography and Acknowledgements</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1.3472677,-127.14148)"
+       transform="translate(-3.6083068,-154.27395)"
        xml:space="preserve"
        id="flowRoot8742"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garuda;-inkscape-font-specification:Garuda"><flowRegion
          id="flowRegion8744"><rect
            id="rect8746"
-           width="1220.9237"
-           height="288.54944"
+           width="1227.7068"
+           height="304.3764"
            x="93.620972"
            y="4015.0068" /></flowRegion><flowPara
-         id="flowPara8852"><flowSpan
+         id="flowPara8852">1.<flowSpan
    style="font-weight:bold"
-   id="flowSpan8908"><flowSpan
-   style="font-weight:normal"
-   id="flowSpan6877">1.</flowSpan> The Galaxy Team.</flowSpan><flowSpan
+   id="flowSpan8908"> The Galaxy Team.</flowSpan><flowSpan
    style="font-style:italic"
    id="flowSpan8906"> The Galaxy Project: Online bioinformatics analysis for everyone</flowSpan>. [cited 2016 Mar 29]. Available from: https://www.galaxyproject.org/</flowPara><flowPara
          id="flowPara6869">2. <flowSpan
@@ -2507,13 +2504,13 @@
    style="font-style:italic"
    id="flowSpan6875">Transcriptome Survey of a Marine Food Fish: Asian Seabass (Lates calcarifer).</flowSpan> J Mar Sci Eng. 2015 Jun 2;3(2):382–400. </flowPara><flowPara
          id="flowPara6871" /><flowPara
-         id="flowPara8912" /><flowPara
-         id="flowPara9417">Special thanks to the Galaxy Intergalactic Utilities Commission (IUC) members, especially Eric Rasche (for JBrowse wrapper) and Björn Grüning (for Interactive Environments) and SANBI software developers Thoba Lose (for Bass Explorer) and Ziphozakhe Mashologu (for RNA STAR index builder). This work was supported by the South African Research Chairs Initiative of the Department of Science and Technology and National Research Foundation of SA.</flowPara></flowRoot>  </g>
+         id="flowPara9417">Special thanks to the Galaxy Intergalactic Utilities Commission (IUC) members, especially Eric Rasche (for JBrowse wrapper) and Björn Grüning (for Interactive Environments) and SANBI software developers Thoba Lose (for Bass Explorer) and Ziphozakhe Mashologu (for RNA STAR index builder). This work was supported by the South African Research Chairs Initiative of the Department of Science and Technology and National Research Foundation of SA and the National Research Foundation, Prime Minister’s Office, Singapore under its Competitive Research Program (CRP Award No. NRF-CRP7-2010-01).</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="method_text"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline">
+     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="-17.616394"
@@ -2547,7 +2544,7 @@
            height="4212.9922"
            transform="translate(0,39.726615)" /></flowRegion><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
-         id="flowPara27209">Four datasets were obtained from Temasek Life Sciences Laboratory: assembled² transcript data, comprising 1,184,879 contigs totalling 890 Mb, the assembled L. calcarifer genome (668 Mb, N50 1,191,366, in press) and two sets of Illumina HiSeq RNAseq reads (486 million reads after filtering for quality and length). Analysis was conducted using Galaxy workflows, an IPython notebook and custom scripts.</flowPara><flowPara
+         id="flowPara27209">Four datasets were obtained from TLL: unmerged assembled² transcript data, comprising 1,184,879 contigs totalling 890 Mb, the assembled L. calcarifer genome (668 Mb, N50 1,191,366, in press) and two sets of Illumina HiSeq RNAseq reads (486 million reads after filtering for quality and length). Analysis was conducted using Galaxy workflows, an IPython notebook and custom scripts.</flowPara><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
          id="flowPara27213" /><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
@@ -2622,9 +2619,9 @@
            height="4212.9922"
            transform="translate(-0.013041,48.140231)" /></flowRegion><flowPara
          id="flowPara28073"
-         style="font-size:36px;text-align:justify;text-anchor:start">Falling costs of genetic sequencing have allowed sequencing and annotation of the genomes of non-model organism. In annotating non-model genomes, mRNA-seq data has great potential to improve annotation quality. For example the Asian sea bass (<flowSpan
+         style="font-size:36px;text-align:justify;text-anchor:start">Falling costs of genetic sequencing have allowed sequencing and annotation of the genomes of non-model organism. In annotating non-model genomes, mRNA-seq data has great potential to improve annotation quality. For example the Asian seabass (<flowSpan
    style="font-style:italic"
-   id="flowSpan6869">L. calcarifer</flowSpan>) genome annotation effort drew on previously assembled mRNA-seq data provided by the Temasek Life Sciences Laboratory (TLL). At the South African National Bioinformatics Institute (SANBI) we undertook gene annotation on the Asian seabass genome using a pipeline built out of custom scripts. Simultaneously, a team at Saint Petersburg State University undertook the same task using MAKER2. Comparing the results of this annotation highlighted the impact of tool and parameter choice in gene prediction.</flowPara><flowPara
+   id="flowSpan6869">L. calcarifer</flowSpan>) genome annotation effort drew on previously assembled mRNA-seq data provided by the Temasek Life Sciences Laboratory (TLL, Singapore). At the South African National Bioinformatics Institute (SANBI) we undertook gene annotation on the Asian seabass genome using a pipeline built out of custom scripts. Simultaneously, a team at Saint Petersburg State University undertook the same task using MAKER2. Comparing the results of this annotation highlighted the impact of tool and parameter choice in gene prediction.</flowPara><flowPara
          style="font-size:36px;text-align:justify;text-anchor:start"
          id="flowPara28077" /><flowPara
          id="flowPara28075"
@@ -3051,7 +3048,7 @@
          id="flowPara24830"
          style="font-size:28px;line-height:100%"><flowSpan
    style="font-size:28px;text-align:justify;text-anchor:start"
-   id="flowSpan9410">The assembled transcripts used in Method 1 were assembled independently in different libraries, resulting in overlapping transcript alignments and a substantially higher number of aligned transcripts compared to Method 2, which merged transcript alignments from multiple libraries into final transcripts. Method2 predicted significantly (according to Mann-Whitney test) larger exons and on-genome isoforms, with 460 spanning more than 200Kb. We suspect that these suspiciously large isoforms are artifacts possibly caused by matches to unmasked repeats. Despite these suspicious </flowSpan>artifacts, 2,040,178 out of 2,120,605 (96%) exons predicted by Method 2 overlapped with exons predicted by Method 1, suggesting that Method 2 is worth further investigation.</flowPara></flowRoot>    <g
+   id="flowSpan9410">The transcripts used in Method 1 were assembled independently in different libraries, resulting in overlapping transcript alignments and a substantially higher number of aligned transcripts compared to Method 2, which merged transcript alignments from multiple libraries into final transcripts. Method2 predicted significantly (according to Mann-Whitney test) larger exons and on-genome isoforms, with 460 spanning more than 200Kb. We suspect that these suspiciously large isoforms are artifacts possibly caused by matches to unmasked repeats. Despite these suspicious </flowSpan>artifacts, 2,040,178 out of 2,120,605 (96%) exons predicted by Method 2 overlapped with exons predicted by Method 1, suggesting that Method 2 is worth further investigation.</flowPara></flowRoot>    <g
        id="g9178"
        transform="translate(6.6336273,-8.3802553)"
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
